@@ -5,7 +5,7 @@ public class BedManagement {
     private final int rows = 4;
     private final int cols = 5;
     private Patient[][] beds;
-
+//commit
     public BedManagement() {
         beds = new Patient[rows][cols];
     }

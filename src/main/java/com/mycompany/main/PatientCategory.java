@@ -5,5 +5,6 @@ public enum PatientCategory {
     Inpatient,
     Outpatient,
     Emergency
+    //enum
     
 }

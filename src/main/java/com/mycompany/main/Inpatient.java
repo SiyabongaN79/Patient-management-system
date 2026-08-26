@@ -1,5 +1,5 @@
 package com.mycompany.main;
-
+//
 public class Inpatient extends Patient {
     private String wardNumber;
     private String bedNumber;

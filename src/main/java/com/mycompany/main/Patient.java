@@ -12,7 +12,7 @@ public class Patient {
     private String medicalCondition;
     private PatientCategory patientCategory;
     
-    // A constructor to initialize the attributes
+    //A constructor to initialize the attributes
     
     Patient(){
         
